@@ -1,0 +1,14 @@
+# missi_phone_global-user 13 TKQ1.220807.001 V14.0.4.0.TLJMIXM release-keys
+- manufacturer: xiaomi
+- platform: taro
+- codename: ingres
+- flavor: missi_phone_global-user
+- release: 13
+- id: TKQ1.220807.001
+- incremental: V14.0.4.0.TLJMIXM
+- tags: release-keys
+- fingerprint: POCO/ingres_global/ingres:13/SKQ1.220303.001/V14.0.4.0.TLJMIXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi_phone_global-user-13-TKQ1.220807.001-V14.0.4.0.TLJMIXM-release-keys
+- repo: poco_ingres_dump

@@ -1,0 +1,7 @@
+recovery.img.xz
+boot.img.xz
+vendor/lib/libMegviiFacepp-0.5.2.so.xz
+vendor/lib64/libMegviiFacepp-0.5.2.so.xz
+vendor/lib64/libxmi_high_dynamic_range_cdsp.so.xz
+vendor/lib64/libQnnGpu.so.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
